@@ -2,10 +2,10 @@
   "_args": [
     [
       {
-        "raw": "bitcore-lib@^0.14.0",
+        "raw": "bitcore-lib-btcz@^1.0.0",
         "scope": null,
-        "escapedName": "bitcore-lib",
-        "name": "bitcore-lib",
+        "escapedName": "bitcore-lib-btcz",
+        "name": "bitcore-lib-btcz",
         "rawSpec": "^0.14.0",
         "spec": ">=0.14.0 <0.15.0",
         "type": "range"
@@ -212,12 +212,12 @@
       "email": "patrick@bitpay.com"
     }
   ],
-  "name": "bitcore-lib",
+  "name": "bitcore-lib-btcz",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bitpay/bitcore-lib.git"
+    "url": "git+https://github.com/anthony19114/bitcore-lib-btcz.git"
   },
   "scripts": {
     "build": "gulp",
@@ -225,5 +225,5 @@
     "lint": "gulp lint",
     "test": "gulp test"
   },
-  "version": "0.14.0"
+  "version": "1.0.0"
 }
